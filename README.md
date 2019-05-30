@@ -1,4 +1,4 @@
-[]()
+[中文版](https://github.com/waterasice/HowManyDocumentsInACompleteProject/blob/master/README_CN.md)
 # Catalog
 
 ```
